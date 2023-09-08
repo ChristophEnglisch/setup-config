@@ -14,4 +14,5 @@ Fluent Terminal
 
 # Across Systems
 * Intellij
-* Docker
+* Docker Desktop
+* Chrome
